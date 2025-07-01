@@ -70,7 +70,7 @@ whisper-mic-transcriber/
 
 ---
 
-## ✏️ Notes
+## Notes
 
 - Uses **OpenAI Whisper** (`openai-whisper`) for accurate transcription.
 - Uses **PyAudio** for microphone streaming (requires mic permissions on macOS).
